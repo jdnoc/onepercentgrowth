@@ -16,7 +16,7 @@ kramdown:
     input: GFM
     hard_wrap: false
 
-permalink: /:title
+permalink: /blog/:title/
 sass:
     sass_dir: _sass
     style: compressed

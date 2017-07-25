@@ -1,0 +1,22 @@
+# Site settings
+title: 1% Growth
+description: >
+    This is the 1% Growth blog - where I help people grow everyday.
+author: Jordan O'Connor
+email: jordan@onepercentgrowth.com
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "http://onepercentgrowth.com" # the base hostname & protocol for your site
+twitter_username: onepercentgrowth
+
+# Build settings
+include: [_pages]
+markdown: kramdown
+
+kramdown:
+    input: GFM
+    hard_wrap: false
+
+permalink: /:title
+sass:
+    sass_dir: _sass
+    style: compressed

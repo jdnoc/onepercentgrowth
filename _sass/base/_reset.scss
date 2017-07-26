@@ -67,6 +67,7 @@ audio:not([controls]) {
 [hidden], template { display: none; }
 
 img {
+    width: 100%;
     max-width: 100%;
     font-style: italic;
     vertical-align: middle;
@@ -120,8 +121,3 @@ pre { overflow: auto; }
 code, pre {
 
 }
-
-img {
-    width: 100%;
-}
-

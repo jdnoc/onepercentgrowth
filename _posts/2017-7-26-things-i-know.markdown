@@ -105,3 +105,6 @@ So most of this all hinges on sleeping well. The thing we do for more than a thi
 
 So that's what this is all about. I am going to make a plan, stick to it and write about it's affectiveness.
 
+A year from now, if I am successfully doing all of the things mentioned above, I don't think there is anything that
+could stop me. 
+

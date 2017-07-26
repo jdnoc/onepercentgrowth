@@ -3,10 +3,14 @@ layout: content
 title: About
 permalink: /about/
 ---
-### One Percent Growth is actionable advice for people who want to grow.
+## One Percent Growth is actionable advice for people who want to grow.
 
-Hey there, I'm Jordan O'Connor. Currently working a cubicle job at a large corperation,
+Hey there, I'm Jordan O'Connor. I'm currently working a cubicle job at a large corperation,
 but I plan on being an entreprenuer as soon as I can.
+
+This blog is an experiment - to find a process of editing habits that touch every fiber of our being
+over the course of a year and fundamentaly changing who we are. I haven't decided what I'll call it yet,
+but Habit Editing sounds cool.
 
 I'm working on cool stuff such as:
 

@@ -47,6 +47,8 @@ Here's my idea.
 
 ## A Year Of Growth
 
+> “Routine, in an intelligent man, is a sign of ambition.” ― W. H. Auden
+
 I want to take a year and change a habit / grow every day.
 
 Since there are 365 days in a year, this can be very gradual. This is a marathon, remember?

@@ -5,7 +5,7 @@ description: >
 author: Jordan O'Connor
 email: jordan@onepercentgrowth.com
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://onepercentgrowth.com" # the base hostname & protocol for your site
+url: "https://onepercentgrowth.com" # the base hostname & protocol for your site
 twitter_username: onepercentgrowth
 
 # Build settings

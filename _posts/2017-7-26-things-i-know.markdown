@@ -49,6 +49,9 @@ Here's my idea.
 
 > “Routine, in an intelligent man, is a sign of ambition.” ― W. H. Auden
 
+I really like James Clear - this is an extensions of the stuff he talks about in his
+article, [Achieve Your Goals: The Scientific Argument for Mastering One Thing at a Time](http://jamesclear.com/master-one-thing).
+
 I want to take a year and change a habit / grow every day.
 
 Since there are 365 days in a year, this can be very gradual. This is a marathon, remember?

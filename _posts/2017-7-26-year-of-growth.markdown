@@ -1,0 +1,75 @@
+---
+layout: post
+title:  "A Year Of Growth"
+date:   2017-7-26
+categories: growth year
+---
+
+As I'm thinking about what I want to do with this blog - I have a large and long project in mind.
+Here's my idea. 
+
+## A Year Of Growth
+
+> “Routine, in an intelligent man, is a sign of ambition.” ― W. H. Auden
+
+I really like James Clear - this is an extension of the stuff he talks about in his
+article, [Achieve Your Goals: The Scientific Argument for Mastering One Thing at a Time](http://jamesclear.com/master-one-thing).
+
+I want to take a year and change a habit / grow every day.
+
+Since there are 365 days in a year, this can be very gradual. This is a marathon, remember?
+
+There are 12 months in a year, so I want to develop 12 pillars of habits that can be edited.
+
+These can include:
+
+1. Health
+2. Fitness
+3. Family
+4. Spouse
+5. Morning Routine
+6. Spirituality
+7. Reading
+8. Producing
+9. Meditation
+10. Waking Up Earlier
+11. Evening Routines
+12. Sleeping
+13. etc.
+
+I'll add more and cut some from this list, but you get the point.
+
+Then, each month is focussed on editing one of those pillars gradually.
+
+There are roughly 4 weeks in a month, so I will take 4 gradual steps to 
+editing that habit.
+
+For example, if the habit is 'Waking Up Earlier', the weeks in the month could look like this:
+
+1. Begin Waking Up at 7 AM
+2. Wake Up at 6:30 AM
+3. Wake Up at 6 AM
+4. Wake up at 5:30 AM
+
+The start and end times could be anything - depending on the person. They can also be more coarse or
+gradual depending on how successful they are at making the habit stick (Maybe 4 or 5 days instead of a week).
+
+The object of the pillars, is to have them stick, and you continue to do the previous pillars while 
+editing new pillars. 
+
+There is a snag, though, some pillars cannot be done very easily before others. For instance, staying on the
+'Waking Up Early' habit - It's nearly impossible to be successful at getting up early if you don't have an
+evening routine / good sleep habit.
+
+So, before we can wake up early, we have to sleep well, and that would come first in the program.
+
+And before we can have a morning routine, we have to be waking up early.
+
+And before we can make time for meditation, spirituality, journaling, exercising, etc., we need a morning routine.
+
+So most of this all hinges on sleeping well. The thing we do for more than a third of our lives.
+
+So that's what this is all about. I am going to make a plan, stick to it and write about it's affectiveness.
+
+A year from now, if I am successfully doing all of the things mentioned above, I don't think there is anything that
+could stop me. 

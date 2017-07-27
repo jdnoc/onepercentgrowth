@@ -25,7 +25,7 @@ is too generic, and hard to track. The habit should be measureable and actionabl
 Though I should avoid eating too many carbs, It's more of a mindset than a habit. It's something that is 
 different everyday, and needs a different source of motivation to complete. 
 
-Now, if my goal is to implement intemittent fasting - then obviously that impacts my carb intake,
+Now, if my goal is to implement intermittent fasting - then obviously that impacts my carb intake,
 and it is directly influenced. I can still follow my health rules by creating actionable habits.
 
 The same goes for "Sprirtuality". What does that mean? It means I'm reading my Bible everyday, 

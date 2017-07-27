@@ -38,7 +38,7 @@ can make the habits, the more affective this experiement will be.
 
 ## Definition Is Important
 
-The better I can define this program, the more affective it will be. And, the bettter I can explain it to
+The better I can define this program, the more affective it will be. And, the better I can explain it to
 someone. 
 
 The next thing I need to think about is how quickly I want to generate new habits. 

@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "A Year Of Growth - Updating Definition"
-date:   2017-7-27
-categories: growth year
+title:  "Habit Destorying"
+date:   2017-7-28
+categories: growth habits
 ---
 
 # Habit Destroying

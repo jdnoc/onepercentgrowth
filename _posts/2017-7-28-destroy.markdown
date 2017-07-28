@@ -1,3 +1,10 @@
+---
+layout: post
+title:  "A Year Of Growth - Updating Definition"
+date:   2017-7-27
+categories: growth year
+---
+
 # Habit Destroying
 
 Equally as important as establishing new habits, is getting rid of the bad ones.

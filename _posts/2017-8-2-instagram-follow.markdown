@@ -12,7 +12,7 @@ categories: instagram growth
 ### [Unfollow (20s)](javascript:function followButton(){var .getElementsByClassName("_4gt3b"),buttons=document.querySelectorAll("._ah57t._6y2ah._i46jh._rmr7s"),i=buttons.length;buttons[buttons.length-i+1].click(),x[0].scrollTop+=106}var x=document.getElementsByClassName("_4gt3b"),buttons=document.querySelectorAll("._ah57t._6y2ah._i46jh._rmr7s"),i=buttons.length;buttons[buttons.length-i+1].click(),x[0].scrollTop+=106,setInterval(followButton,2e4);)
 
 
-### [Unfollow (2s)](javascript:function followButton(){var .getElementsByClassName("_4gt3b"),buttons=document.querySelectorAll("._ah57t._6y2ah._i46jh._rmr7s"),i=buttons.length;buttons[buttons.length-i+1].click(),x[0].scrollTop+=106}var x=document.getElementsByClassName("_4gt3b"),buttons=document.querySelectorAll("._ah57t._6y2ah._i46jh._rmr7s"),i=buttons.length;buttons[buttons.length-i+1].click(),x[0].scrollTop+=106,setInterval(followButton,2000);)
+### [Unfollow (2s)](javascript:function followButton(){var .getElementsByClassName("_4gt3b"),buttons=document.querySelectorAll("._ah57t._6y2ah._i46jh._rmr7s"),i=buttons.length;buttons[buttons.length-i+1].click(),x[0].scrollTop+=106}var x=document.getElementsByClassName("_4gt3b"),buttons=document.querySelectorAll("._ah57t._6y2ah._i46jh._rmr7s"),i=buttons.length;buttons[buttons.length-i+1].click(),x[0].scrollTop+=106,setInterval(followButton,2e3);)
 
 👆 Drag these links to your bookmarks bar! (Desktop Google Chrome Only)
 

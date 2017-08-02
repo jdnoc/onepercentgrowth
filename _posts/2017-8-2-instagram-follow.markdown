@@ -31,6 +31,8 @@ If it's scrolling, it's working. No worries. Or just scroll up to check. But mak
 It clicks every 20s. Which is 30 follows every 10 minutes. Which is 180 follows an hour. Which is **4320 follows a day** if you let
 it run all day. Obviously, you can only follow less than 7500 people, so you'll have to unfollow eventually.
 
+More math: If you get a follow-back rate of 20% (pretty standard for a targeted audience), you have the potential to get **862 followers a day**. Not bad for doing nothing! Just keep posting and doing stories. You'll grow in no time.
+
 #### It's Not Smart
 This button isn't very smart. It just looks for 'follow' or 'following' buttons on the page, clicks them,
 and scrolls down a little bit after it clicks. 

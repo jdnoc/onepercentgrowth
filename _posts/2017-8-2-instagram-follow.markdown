@@ -50,3 +50,7 @@ the follow/following button on the account that you are taking followers from.
 If you want to unfollow a bunch of people, go to your own account and open the same followers popup that you would on another account.
 This guarantees that you are only unfollowing people that follow you. Obviously, if you want to get rid of all of your followers, open the following popup window. Then you can go wild.
 
+#### Let It Work
+I've found that minimizing the browser makes things not behave well. Leave it open and viewable (on that tab). 
+You can always open a new instance of the browser if you want to continue doing other stuff.
+

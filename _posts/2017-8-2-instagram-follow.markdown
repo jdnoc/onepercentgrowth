@@ -30,11 +30,14 @@ If it's scrolling, it's working. No worries. Or just scroll up to check. But mak
 It clicks every 20s. Which is 30 follows every 10 minutes. Which is 180 follows an hour. Which is4320 follows a day if you let
 it run all day. Obviously, you can only follow less than 7500 people, so you'll have to unfollow eventually.
 
-So this button isn't very smart. It just looks for 'follow' or 'following' buttons on the page, clicks them,
+This button isn't very smart. It just looks for 'follow' or 'following' buttons on the page, clicks them,
 and scrolls down a little bit after it clicks. 
 
 The reason it scrolls is so new buttons can come up. If no new buttons come up, the script can't do anything.
 
 Now, it should keep scrolling, so even if you hit a patch of people that you already follow/need to unfollow, then 
 you should be able to get passed them eventually.
+
+Sometimes you'll notice that it follows the second person and not the first in the list, that's because it takes into account
+the follow/following button on the account that you are taking followers from.
 

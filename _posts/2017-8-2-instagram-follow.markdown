@@ -27,17 +27,26 @@ If it's scrolling, it's working. No worries. Or just scroll up to check. But mak
 
 ## Tips And Tricks
 
-It clicks every 20s. Which is 30 follows every 10 minutes. Which is 180 follows an hour. Which is4320 follows a day if you let
+#### The Math
+It clicks every 20s. Which is 30 follows every 10 minutes. Which is 180 follows an hour. Which is **4320 follows a day** if you let
 it run all day. Obviously, you can only follow less than 7500 people, so you'll have to unfollow eventually.
 
+#### It's Not Smart
 This button isn't very smart. It just looks for 'follow' or 'following' buttons on the page, clicks them,
 and scrolls down a little bit after it clicks. 
 
+#### It Might Not Work
 The reason it scrolls is so new buttons can come up. If no new buttons come up, the script can't do anything.
 
+#### But It Should Work
 Now, it should keep scrolling, so even if you hit a patch of people that you already follow/need to unfollow, then 
-you should be able to get passed them eventually.
+you should be able to get passed them eventually. It just won't follow
 
+#### Part Of The Game
 Sometimes you'll notice that it follows the second person and not the first in the list, that's because it takes into account
 the follow/following button on the account that you are taking followers from.
+
+#### Stealth Mode
+If you want to unfollow a bunch of people, go to your own account and open the same followers popup that you would on another account.
+This guarantees that you are only unfollowing people that folow you. Obviously, if you want to get rid of all of your followers, open the following popup window. Then you can go wild.
 

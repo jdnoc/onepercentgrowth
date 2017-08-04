@@ -7,11 +7,9 @@ categories: instagram growth
 
 ## Instagram Auto-Follow / Auto-Unfollow Bookmarklets
 
-### [Follow (20s)](javascript:function followButton(){var x=document.getElementsByClassName("_4gt3b"),buttons=document.querySelectorAll("._ah57t._84y62._i46jh._rmr7s"),i=buttons.length;buttons[buttons.length-i+1].click(),x[0].scrollTop+=106}var x=document.getElementsByClassName("_4gt3b"),buttons=document.querySelectorAll("._ah57t._84y62._i46jh._rmr7s"),i=buttons.length;buttons[buttons.length-i+1].click(),x[0].scrollTop+=106,setInterval(followButton,2e4);)
+### [Follow (87s)](javascript:function followButton(){var x=document.getElementsByClassName("_4gt3b"),buttons=document.querySelectorAll("._ah57t._84y62._i46jh._rmr7s"),i=buttons.length;buttons[buttons.length-i+1].click(),x[0].scrollTop+=106}var x=document.getElementsByClassName("_4gt3b"),buttons=document.querySelectorAll("._ah57t._84y62._i46jh._rmr7s"),i=buttons.length;buttons[buttons.length-i+1].click(),x[0].scrollTop+=106,setInterval(followButton,8639);)
 
-### [Unfollow (20s)](javascript:function followButton(){var x=document.getElementsByClassName("_4gt3b"),buttons=document.querySelectorAll("._ah57t._6y2ah._i46jh._rmr7s"),i=buttons.length;buttons[buttons.length-i+1].click(),x[0].scrollTop+=106}var x=document.getElementsByClassName("_4gt3b"),buttons=document.querySelectorAll("._ah57t._6y2ah._i46jh._rmr7s"),i=buttons.length;buttons[buttons.length-i+1].click(),x[0].scrollTop+=106,setInterval(followButton,2e4);)
-
-### [Unfollow (2s)](javascript:function followButton(){var x=document.getElementsByClassName("_4gt3b"),buttons=document.querySelectorAll("._ah57t._6y2ah._i46jh._rmr7s"),i=buttons.length;buttons[buttons.length-i+1].click(),x[0].scrollTop+=106}var x=document.getElementsByClassName("_4gt3b"),buttons=document.querySelectorAll("._ah57t._6y2ah._i46jh._rmr7s"),i=buttons.length;buttons[buttons.length-i+1].click(),x[0].scrollTop+=106,setInterval(followButton,2e3);)
+### [Unfollow (87s)](javascript:function followButton(){var x=document.getElementsByClassName("_4gt3b"),buttons=document.querySelectorAll("._ah57t._6y2ah._i46jh._rmr7s"),i=buttons.length;buttons[buttons.length-i+1].click(),x[0].scrollTop+=106}var x=document.getElementsByClassName("_4gt3b"),buttons=document.querySelectorAll("._ah57t._6y2ah._i46jh._rmr7s"),i=buttons.length;buttons[buttons.length-i+1].click(),x[0].scrollTop+=106,setInterval(followButton,8639);)
 
 👆 Drag these links to your bookmarks bar! (Desktop Google Chrome Only)
 
@@ -30,10 +28,10 @@ If it's scrolling, it's working. No worries. Or just scroll up to check. But mak
 ## Tips And Tricks
 
 #### The Math
-It clicks every 20s. Which is 30 follows every 10 minutes. Which is 180 follows an hour. Which is **4320 follows a day** if you let
+It clicks every 87s. Which is **1000 follows a day** if you let
 it run all day. Obviously, you can only follow less than 7500 people, so you'll have to unfollow eventually.
 
-More math: If you get a follow-back rate of 20% (pretty standard for a targeted audience), you have the potential to get **862 followers a day**. Not bad for doing nothing! Just keep posting and doing stories. You'll grow in no time.
+More math: If you get a follow-back rate of 20% (pretty standard for a targeted audience), you have the potential to get **250 followers a day**. Not bad for doing nothing! Just keep posting and doing stories. You'll grow in no time.
 
 #### It's Not Smart
 This button isn't very smart. It just looks for 'follow' or 'following' buttons on the page, clicks them,

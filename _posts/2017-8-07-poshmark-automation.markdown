@@ -26,9 +26,9 @@ Instructions for use:
 
 The party button won’t work if there isn’t a party going on.
 
-Also, if you get the “Are you a robot?” message, don’t panic. Just follow the instructions and it will go away. If you don’t refresh the page, you can share all of your items again without losing the order in your closet.
+Also, if you get the *Are you a robot?* message, don’t panic. Just follow the instructions and it will go away. If you don’t refresh the page, you can share all of your items again without losing the order in your closet.
 
-Also also, it says in the Poshmark Community Guidelines, “Do not use programs or other forms of automation to participate on Poshmark. This includes, but is not limited to liking, sharing, following, and unfollowing.” At the end, it says “Should we find your account to be in violation of any of the above, we may send you an email or take permanent or temporary action on your account privileges.”
+Also also, it says in the Poshmark Community Guidelines, **Do not use programs or other forms of automation to participate on Poshmark. This includes, but is not limited to liking, sharing, following, and unfollowing.” At the end, it says “Should we find your account to be in violation of any of the above, we may send you an email or take permanent or temporary action on your account privileges.**
 
 AKA Use at your own risk!
 

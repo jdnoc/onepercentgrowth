@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Poshmark Share Automation"
-date: 2017-08-07
+date: 2017-8-07
 tags: poshmark javascript
 ---
 

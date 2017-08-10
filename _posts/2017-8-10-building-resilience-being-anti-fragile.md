@@ -16,7 +16,7 @@ There are ways that you can build up a tolerance for change, and a resilience to
 
 ## Building Resilience
 
-> “A smooth sea never made a skilled sailor.” - Franklin D. Roosevelt</p>
+> “A smooth sea never made a skilled sailor.” - Franklin D. Roosevelt
 
 It's true. The only way to grow and gain experience is through doing and facing resistance.
 

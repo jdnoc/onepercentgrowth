@@ -16,9 +16,7 @@ There are ways that you can build up a tolerance for change, and a resilience to
 
 ## Building Resilience
 
-<blockquote>
-<p>“A smooth sea never made a skilled sailor.” - Franklin D. Roosevelt</p>
-</blockquote>
+> “A smooth sea never made a skilled sailor.” - Franklin D. Roosevelt</p>
 
 It's true. The only way to grow and gain experience is through doing and facing resistance.
 
@@ -54,6 +52,6 @@ It's a mindset that doesn't let things affect you the way they affect others (wi
 
 It also perseveres when other's would quit. It makes the impossible possible. It challenges the norm by being ultra-focused on completing the task at hand.
 
-<hr>
+-----
 
 I think building a mentality of being Anti-Fragile is crucial to becoming a fundamentally different person. When you can push through anything, nothing can stop you.

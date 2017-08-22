@@ -9,7 +9,7 @@ categories: work focus
 
 I work better when I'm not in the same place all day. 
 
-Today I got more done in a long time - in less time. 
+Today I got more done than I have in a long time - in less time. 
 
 I spent my first hour outside, under the tent, at a picnic table, answering emails. Then, I worked in the cafeteria.
 Then I worked at my desk. 

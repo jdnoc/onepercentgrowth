@@ -1,8 +1,8 @@
 ---
 layout: post
 date: 2017-8-22
-title: "Positive Affirmations"
-categories: affirmations habits
+title: "Daily Routine"
+categories: routine habits
 ---
 
 ## I Haven't Been Able To Stick To Anything

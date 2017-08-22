@@ -36,9 +36,9 @@ As far as daily habits go, that would leave me with this as my morning tasks:
 
 So I think I want to do this as my evening routine:
 
-7:00 PM - Bath with Finn and Reading
-7:30 PM - Bed Time for Finn
-8:00 PM - Bedtime Routine
+- 7:00 PM - Bath with Finn and Reading
+- 7:30 PM - Bed Time for Finn
+- 8:00 PM - Bedtime Routine
 
 Bedtime Routine:
 

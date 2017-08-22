@@ -9,11 +9,9 @@ categories: routine habits
 
 I think it's all because of my messed up evening routine.
 
-I want to have a consistent morning routine, but I go to bed at different times every night. And, I never know how well I am going to sleep, 
-so it's hard to justify waking up super early (like 4:30).
+I want to have a consistent morning routine, but I go to bed at different times every night. And, I never know how well I am going to sleep, so it's hard to justify waking up super early (like 4:30 AM).
 
-But, if I can generate an evening routine that basically revolves around when Finn goes to bed at 8 PM, I think I can get things consistent 
-enough to where I can do it every evening so that the mornings after I can have a consistent morning. 
+But, if I can generate an evening routine that basically revolves around when Finn goes to bed at 8 PM, I think I can get things consistent enough to have a solid evening and morning. 
 
 I think I need a long routine (normal days) and a short routine (after I get home a little later from something else).
 
@@ -64,6 +62,8 @@ Things to prepare for the next day
 
 I think that's it. This list will probably change. 
 
+## I Want To Be Consistent
+
 I still haven't decided whether or not I will be going to work and exercising, or staying home and exercising. 
 
 There are a lot of advantages to going to work, sans the drive. It feels weird to drive 40 minutes as soon as you wake up.
@@ -80,6 +80,7 @@ need to be an effort on both my and my wife's part.
 
 I desperately want to be consistent. I want to be reliable. I want to be the person I know I can to be. 
 
+I would like to start by getting up at 6 AM, following going to bed at 11 PM. I want to start getting less sleep. I want to be 
+able to run on 6 - 6.5 solid hours, meaning I will need to have good healthy routines in place to stay alert and fresh.
 
-
-
+It would be nice to do 11 to 5, that would mean I could pretty much have an evening routine even after doing things in the evening with family and friends. 

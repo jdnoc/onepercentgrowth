@@ -3,6 +3,7 @@ layout: post
 title: "Consistency"
 date: 2017-9-5
 categories: habits
+---
 
 ## Consistency Is All I Want
 

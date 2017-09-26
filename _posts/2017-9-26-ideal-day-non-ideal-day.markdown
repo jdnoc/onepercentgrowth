@@ -9,7 +9,7 @@ layout: post
 - Run
 - Lots Of Water
 - Healthy, Low Carb Meals
-- Bible Reading
+- Bible Reading / Prayer
 - Play Time with Finn
 - Wife Time
 - Work that I love (business that I own)

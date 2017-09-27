@@ -1,5 +1,5 @@
 ---
-title: What An Ideal (And Not Ideal) Day Looks Like
+title: What An Ideal (And Non-Ideal) Day Looks Like
 date: 2017-9-26
 layout: post
 ---

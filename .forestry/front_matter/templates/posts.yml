@@ -1,0 +1,21 @@
+---
+pages:
+- _posts/what-s-the-point-of-all-of-this.md
+hide_body: false
+fields:
+- type: text
+  name: title
+  label: Title
+  config:
+    required: true
+- type: datetime
+  default: Invalid date
+  label: Date
+  name: date
+- type: field_group
+  label: Categories
+  name: categories
+- type: text
+  name: layout
+  label: Layout
+  default: post

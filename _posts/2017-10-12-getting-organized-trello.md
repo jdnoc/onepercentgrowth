@@ -1,6 +1,6 @@
 ---
-title: 2017 10 12 Getting Organized Trello
-date: 2017-10-12 16:46:31.033000000 Z
+title: Getting Organized (Trello)
+date: 2017-10-12 00:00:00 Z
 ---
 
 ## Planning Is My Worst Attribute
@@ -27,12 +27,12 @@ One of my strengths (I see it as a strength) is the ability to be laser focused.
 
 Trello will help me organize my tasks for the day and get my tasks aligned to my goals.
 
-![](/uploads/2017/10/12/Screenshot-2017-10-12%20Blacklet%20Launch%20Trello.png)
+![Screenshot-2017-10-12 Blacklet Launch Trello.png](/uploads/Screenshot-2017-10-12%20Blacklet%20Launch%20Trello.png)
 
 Here's my board for the Blacklet launch so far!
 
 ## Something Had To Give
 
-I can't keep going on without a plan. I need to be executing on my goals every day. Right now my goal is to have an awesome launch. All of my extra energy needs to be focused on that (after work/family). 
+I can't keep going on without a plan. I need to be executing on my goals every day. Right now my goal is to have an awesome launch. All of my extra energy needs to be focused on that (after work/family).
 
-Planning needs to be central and core to everything I do. Once I have mastered planning and then executing that plan, I will be much more productive. 
+Planning needs to be central and core to everything I do. Once I have mastered planning and then executing that plan, I will be much more productive.

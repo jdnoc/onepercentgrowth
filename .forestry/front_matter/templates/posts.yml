@@ -12,10 +12,6 @@ fields:
   label: Title
   config:
     required: true
-- type: datetime
-  default: Invalid date
-  label: Date
-  name: date
 - type: field_group
   label: Categories
   name: categories

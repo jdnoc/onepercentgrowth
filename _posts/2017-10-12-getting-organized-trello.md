@@ -1,8 +1,8 @@
 ---
-title: Getting Organized (Trello)
-layout: post
-date: 2017-10-12 00:00:00 +0000
 categories: {}
+date: 2017-10-12 07:35:12 -0400
+layout: post
+title: Getting Organized (Trello)
 ---
 ## Planning Is My Worst Attribute
 

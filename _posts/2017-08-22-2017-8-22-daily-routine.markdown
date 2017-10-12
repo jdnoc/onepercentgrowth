@@ -1,8 +1,10 @@
 ---
+title: Daily Routine
+date: 2017-08-22 00:00:00 Z
+categories:
+- routine
+- habits
 layout: post
-date: 2017-8-22
-title: "Daily Routine"
-categories: routine habits
 ---
 
 ## I Haven't Been Able To Stick To Anything

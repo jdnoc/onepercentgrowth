@@ -1,8 +1,9 @@
 ---
+title: Killing Many Birds with One Stone
+date: 2017-08-04 00:00:00 Z
+tags:
+- habits
 layout: post
-title: "Killing Many Birds with One Stone"
-date: 2017-8-4
-tags: habits
 ---
 
 I just had this thought when I was out walking and avoiding screens and dringking water (I do this almost every day for a little bit).

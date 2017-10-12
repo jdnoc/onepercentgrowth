@@ -1,8 +1,10 @@
 ---
+title: Poshmark Share Automation
+date: 2017-08-07 00:00:00 Z
+tags:
+- poshmark
+- javascript
 layout: post
-title: "Poshmark Share Automation"
-date: 2017-8-07
-tags: poshmark javascript
 ---
 
 This is an older project that I worked on for my wife and her friends. They all sell on posh, and complained about the need to share every individual item in their closet if they wanted to share them all.

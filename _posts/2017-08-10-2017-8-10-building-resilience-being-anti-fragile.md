@@ -1,10 +1,11 @@
 ---
+title: Building Resilience (Being Anti-Fragile)
+date: 2017-08-10 00:00:00 Z
+categories:
+- growth
+- year
 layout: post
-title:  "Building Resilience (Being Anti-Fragile)"
-date:   2017-8-10
-categories: growth year
 ---
-
 
 It seems there's more to starting habits than just doing them.
 

@@ -1,8 +1,11 @@
 ---
+title: How To Set Up Prelaunchr In Heroku
+date: 2017-08-10 00:00:00 Z
+tags:
+- heroku
+- prelaunchr
+- email
 layout: post
-title: "How To Set Up Prelaunchr In Heroku"
-date: 2017-08-10
-tags: heroku prelaunchr email
 ---
 
 This is relatively easy to set up. It's just a matter of:

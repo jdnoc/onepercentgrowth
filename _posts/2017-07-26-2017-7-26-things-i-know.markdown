@@ -1,8 +1,10 @@
 ---
+title: Some Things I Know
+date: 2017-07-26 00:00:00 Z
+categories:
+- growth
+- knowledge
 layout: post
-title:  "Some Things I Know"
-date:   2017-7-26
-categories: growth knowledge
 ---
 
 ## Win The Morning, Win The Day

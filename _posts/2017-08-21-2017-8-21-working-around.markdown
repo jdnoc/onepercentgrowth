@@ -1,8 +1,10 @@
 ---
+title: Working In Different Places Helps Me Focus
+date: 2017-08-21 00:00:00 Z
+categories:
+- work
+- focus
 layout: post
-title: "Working In Different Places Helps Me Focus"
-date: 2017-08-21
-categories: work focus
 ---
 
 ## There's Something I Have Noticed Lately

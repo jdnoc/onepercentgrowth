@@ -1,8 +1,12 @@
 ---
+title: Chatbots or Emails?
+date: 2017-08-04 00:00:00 Z
+categories:
+- growth
+- email
+- chatbot
+- kickstarter
 layout: post
-title:  "Chatbots or Emails?"
-date:   2017-8-4
-categories: growth email chatbot kickstarter
 ---
 
 I needed to write today - I've got a lot on my mind.

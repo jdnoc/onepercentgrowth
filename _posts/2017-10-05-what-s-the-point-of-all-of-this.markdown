@@ -1,9 +1,9 @@
 ---
-layout: post
 title: What's The Point of All of This?
-date: 2017-10-05 06:00:00 -0400
-categories: 
+date: 2017-10-05 10:00:00 Z
+layout: post
 ---
+
 The point of everything I am doing right now is to bring freedom to my family. Freedom of time, money, and choice.
 
 As of right now, I work a 9-5. We don't have freedom of time. As of right now, we are strapped in debt. We don't have freedom of money. Right now, we can't afford to buy a home / take vacations / build meaningful and impactful things. We don't have freedom of choice.

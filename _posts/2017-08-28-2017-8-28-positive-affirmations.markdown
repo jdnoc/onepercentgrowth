@@ -1,8 +1,10 @@
 ---
+title: Faith Based Affirmations
+date: 2017-08-28 00:00:00 Z
+categories:
+- faith
+- affirmations
 layout: post
-title: "Faith Based Affirmations"
-date: 2017-8-28
-categories: faith affirmations
 ---
 
 ## "Say This With Me"

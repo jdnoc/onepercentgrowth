@@ -1,9 +1,8 @@
 ---
-categories: {}
-date: 2017-10-12 00:00:00 -0400
-layout: post
-title: Getting Organized (Trello)
+title: 2017 10 12 Getting Organized Trello
+date: 2017-10-12 16:46:31.033000000 Z
 ---
+
 ## Planning Is My Worst Attribute
 
 For some reason, planning into the future is really hard for me. It's not hard for me to have a vision about what I should be doing in the future, but it's really hard for me to make a schedule and stick to it.

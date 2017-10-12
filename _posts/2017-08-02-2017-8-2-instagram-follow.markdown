@@ -1,8 +1,10 @@
 ---
+title: Instagram Follow Bookmarklet
+date: 2017-08-02 00:00:00 Z
+categories:
+- instagram
+- growth
 layout: post
-title:  "Instagram Follow Bookmarklet"
-date:   2017-8-2
-categories: instagram growth
 ---
 
 ## Instagram Auto-Follow / Auto-Unfollow Bookmarklets

@@ -1,8 +1,10 @@
 ---
+title: Habit Destorying
+date: 2017-07-28 00:00:00 Z
+categories:
+- growth
+- habits
 layout: post
-title:  "Habit Destorying"
-date:   2017-7-28
-categories: growth habits
 ---
 
 # Habit Destroying

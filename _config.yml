@@ -1,22 +1,28 @@
-# Site settings
+---
 title: 1% Growth
-description: >
-    This is the 1% Growth blog - where I help people grow everyday.
+timezone: UTC
+collections:
+  posts:
+    title: Posts
+    output: true
+  uploads:
+    title: Uploads
+    output: true
+description: 'This is the 1% Growth blog - where I help people grow everyday.
+
+'
 author: Jordan O'Connor
 email: jordan@onepercentgrowth.com
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://onepercentgrowth.com" # the base hostname & protocol for your site
+baseurl: ''
+url: https://onepercentgrowth.com
 twitter_username: percentgrowth
-
-# Build settings
-include: [_pages]
+include:
+- _pages
 markdown: kramdown
-
 kramdown:
-    input: GFM
-    hard_wrap: false
-
-permalink: /blog/:title/
+  input: GFM
+  hard_wrap: false
+permalink: "/blog/:title/"
 sass:
-    sass_dir: _sass
-    style: compressed
+  sass_dir: _sass
+  style: compressed

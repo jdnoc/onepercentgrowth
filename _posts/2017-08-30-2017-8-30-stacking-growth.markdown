@@ -1,8 +1,10 @@
 ---
+title: Stacking Growth
+date: 2017-08-30 00:00:00 Z
+categories:
+- growth
+- blacklet
 layout: post
-title: "Stacking Growth"
-date: 2017-8-30
-categories: growth blacklet
 ---
 
 ## I've Been Slacking

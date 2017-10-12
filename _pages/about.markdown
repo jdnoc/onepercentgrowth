@@ -1,8 +1,9 @@
 ---
-layout: content
 title: About
-permalink: /about/
+permalink: "/about/"
+layout: content
 ---
+
 ## One Percent Growth is actionable advice for people who want to grow.
 
 Hey there, I'm Jordan O'Connor. I'm currently working a cubicle job at a large corperation,

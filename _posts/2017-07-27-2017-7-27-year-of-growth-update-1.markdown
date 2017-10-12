@@ -1,8 +1,10 @@
 ---
+title: A Year Of Growth - Updating Definition
+date: 2017-07-27 00:00:00 Z
+categories:
+- growth
+- year
 layout: post
-title:  "A Year Of Growth - Updating Definition"
-date:   2017-7-27
-categories: growth year
 ---
 
 ## Categories vs. Habits

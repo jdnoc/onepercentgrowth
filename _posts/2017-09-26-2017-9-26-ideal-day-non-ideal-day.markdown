@@ -1,6 +1,6 @@
 ---
 title: What An Ideal (And Non-Ideal) Day Looks Like
-date: 2017-9-26
+date: 2017-09-26 00:00:00 Z
 layout: post
 ---
 

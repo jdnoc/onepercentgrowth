@@ -1,9 +1,12 @@
 ---
+title: Welcome To 1% Growth
+date: 2017-07-25 00:00:00 Z
+categories:
+- growth
+- welcome
 layout: post
-title:  "Welcome To 1% Growth"
-date:   2017-7-25
-categories: growth welcome
 ---
+
 # I've Been Thinking About This For A While
 
 This is something that I've wanted to do for a while now. 

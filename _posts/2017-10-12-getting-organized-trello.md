@@ -1,6 +1,6 @@
 ---
 categories: {}
-date: 2017-10-11 00:00:00 -0400
+date: 2017-10-12 00:00:00 -0400
 layout: post
 title: Getting Organized (Trello)
 ---

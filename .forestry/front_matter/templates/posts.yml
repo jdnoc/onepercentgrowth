@@ -17,6 +17,7 @@ fields:
   label: Date
   config:
     date_format: MM/DD/YY
+    time_format: h:mm
   default: Invalid date
 - type: field_group
   label: Categories

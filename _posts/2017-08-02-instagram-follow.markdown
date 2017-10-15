@@ -23,14 +23,14 @@ layout: post
 4. Click the bookmarklet button you want.
 5. Profit $$
 
-You'll notice it scrolls a little bit. If you scroll up - you'll see that it followed / unfollowed someone (based on the one you picked).
+You'll notice it scrolls a little bit. If you scroll up - you'll see that it followed/unfollowed someone (based on the one you picked).
 
 If it's scrolling, it's working. No worries. Or just scroll up to check. But make sure you scroll back down when you're done checking.
 
 ## Tips And Tricks
 
 #### The Math
-It clicks every 87s. Which is **1000 follows a day** if you let
+It clicks every 87s, which is **1000 follows a day** if you let
 it run all day. Obviously, you can only follow less than 7500 people, so you'll have to unfollow eventually.
 
 More math: If you get a follow-back rate of 20% (pretty standard for a targeted audience), you have the potential to get **250 followers a day**. Not bad for doing nothing! Just keep posting and doing stories. You'll grow in no time.

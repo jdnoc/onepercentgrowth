@@ -43,8 +43,7 @@ and scrolls down a little bit after it clicks.
 The reason it scrolls is so new buttons can come up. If no new buttons come up, the script can't do anything.
 
 #### But It Should Work
-It should keep scrolling, so even if you hit a patch of people that you already follow/need to unfollow, then 
-you should be able to get passed them eventually. It just won't follow anyone for a while until it gets to new faces.
+It should keep scrolling, so even if you hit a patch of people that you already follow/need to unfollow, then you should be able to get past them eventually. It just won't follow anyone for a while until it gets to new faces.
 
 #### Part Of The Game
 Sometimes you'll notice that it follows the second person and not the first in the list, that's because it takes into account

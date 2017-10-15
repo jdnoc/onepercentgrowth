@@ -19,7 +19,7 @@ Share all of your available items instantly!
 Instructions for use:
 * Use Google Chrome
 * Drag the above links into the bookmarks toolbar (you might have to make the bookmark bar show)
-* Go to your closet on Poshmark (closet is one of the options in the top right corner)
+* Go to your closet on [Poshmark.com](http://poshmark.com) (closet is one of the options in the top right corner)
 * In the sorting options, set the “Availability” tab to “Available”
 * Scroll all the way to the bottom of the page (to load all of the items)
 * Click the desired button (Followers or Party! One button at a time.)

@@ -18,20 +18,22 @@ Share all of your available items instantly!
 
 Instructions for use:
 * Use Google Chrome
-* Drag the above links into the bookmarks toolbar (you might have to make it show)
+* Drag the above links into the bookmarks toolbar (you might have to make the bookmark bar show)
 * Go to your closet on Poshmark (closet is one of the options in the top right corner)
 * In the sorting options, set the “Availability” tab to “Available”
 * Scroll all the way to the bottom of the page (to load all of the items)
-* Click the desired button (Followers or Party, or both! One button at a time.)
+* Click the desired button (Followers or Party! One button at a time.)
 * Wait for it…
 * Profit! $
 
 The party button won’t work if there isn’t a party going on.
 
-Also, if you get the *Are you a robot?* message, don’t panic. Just follow the instructions and it will go away. If you don’t refresh the page, you can share all of your items again without losing the order in your closet.
+Also, if you get the *'Are you a robot?'* message, don’t panic. Just follow the instructions and it will go away. If you don’t refresh the page, you can share all of your items again without losing the order in your closet.
 
-Also also, it says in the Poshmark Community Guidelines, **Do not use programs or other forms of automation to participate on Poshmark. This includes, but is not limited to liking, sharing, following, and unfollowing.” At the end, it says “Should we find your account to be in violation of any of the above, we may send you an email or take permanent or temporary action on your account privileges.**
+Also also, it says in the Poshmark Community Guidelines: **"Do not use programs or other forms of automation to participate on Poshmark. This includes, but is not limited to liking, sharing, following, and unfollowing.” At the end, it says “Should we find your account to be in violation of any of the above, we may send you an email or take permanent or temporary action on your account privileges.**
 
 AKA Use at your own risk!
+
+Have fun! 🎉
 
 Jordan

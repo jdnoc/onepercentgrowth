@@ -50,7 +50,7 @@ Sometimes you'll notice that it follows the second person and not the first in t
 the follow/following button on the account that you are taking followers from.
 
 #### Stealth Mode
-If you want to unfollow a bunch of people, go to your own account and open the same followers popup that you would on another account.
+If you want to unfollow a bunch of people, go to your own account and open the same 'followers popup' that you would on another account.
 This guarantees that you are only unfollowing people that follow you. Obviously, if you want to get rid of all of your followers, open the following popup window. Then you can go wild.
 
 #### Let It Work

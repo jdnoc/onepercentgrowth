@@ -11,11 +11,7 @@ layout: post
 
 ### [Follow (87s)](javascript:function followButton(){var x=document.getElementsByClassName("_gs38e"),buttons=document.querySelectorAll("._qv64e._gexxb._4tgw8._njrw0"),i=buttons.length;buttons[buttons.length-i+1].click(),x[0].scrollTop+=106}var x=document.getElementsByClassName("_gs38e"),buttons=document.querySelectorAll("._qv64e._gexxb._4tgw8._njrw0"),i=buttons.length;buttons[buttons.length-i+1].click(),x[0].scrollTop+=106,setInterval(followButton,86390);)
 
-### [Follow (10s) Capped at 1000](javascript:function followButton(){if(j>0){var x=document.getElementsByClassName("_gs38e"),buttons=document.querySelectorAll("._qv64e._gexxb._4tgw8._njrw0"),i=buttons.length;buttons[buttons.length-i+1].click(),x[0].scrollTop+=106,j-=1}}var x=document.getElementsByClassName("_gs38e"),buttons=document.querySelectorAll("._qv64e._gexxb._4tgw8._njrw0"),i=buttons.length;j=1e3,buttons[buttons.length-i+1].click(),x[0].scrollTop+=106,setInterval(followButton,1e4);)
-
 ### [Unfollow (87s)](javascript:function followButton(){var x=document.getElementsByClassName("_gs38e"),buttons=document.querySelectorAll("._qv64e._t78yp._4tgw8._njrw0"),i=buttons.length;buttons[buttons.length-i+1].click(),x[0].scrollTop+=106}var x=document.getElementsByClassName("_gs38e"),buttons=document.querySelectorAll("._qv64e._t78yp._4tgw8._njrw0"),i=buttons.length;buttons[buttons.length-i+1].click(),x[0].scrollTop+=106,setInterval(followButton,86390);)
-
-### [Unfollow (10s) Capped at 1000](javascript:function followButton(){if(j>0){var x=document.getElementsByClassName("_gs38e"),buttons=document.querySelectorAll("._qv64e._t78yp._4tgw8._njrw0"),i=buttons.length;buttons[buttons.length-i+1].click(),x[0].scrollTop+=106,j-=1}}var x=document.getElementsByClassName("_gs38e"),buttons=document.querySelectorAll("._qv64e._t78yp._4tgw8._njrw0"),i=buttons.length;j=1e3,buttons[buttons.length-i+1].click(),x[0].scrollTop+=106,setInterval(followButton,1e4);)
 
 👆 Drag these links to your bookmarks bar! (Desktop Google Chrome Only)
 
